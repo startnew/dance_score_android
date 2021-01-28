@@ -1,0 +1,2 @@
+# dance_score_android
+2018年做的一个基于人体姿态识别的舞蹈打分android开发
